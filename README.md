@@ -4,18 +4,38 @@
 <br>
 
 
+</p>
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+	
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+1. I am a thoughtful person and I like to understand things deeply before giving an opinion.
+
+
+2. I am responsible and I take my school work seriously, even when I feel tired or stressed.
+
+
+3. I am creative and I look for different ways to explain or present ideas, not just the typical way.
+
+
+4. I am curious and I am not afraid to ask questions when something is not clear.
+
+
+5. I am respectful and I try not to hurt other people’s feelings when I speak.
+
+
+6. I am persistent; even when something is difficult, I keep trying instead of giving up.
 
 <br><br>
+</p>
+
+	
